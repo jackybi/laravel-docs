@@ -183,7 +183,7 @@ Laravel 自带了开箱即用的 `web` 和 `api` 两个中间件组以包含可�
         //
     });
 
-> {tip} 默认情况下，`RouteServiceProvider` 已经为 `routes.php` 文件指定了 `web` 中间件组。
+> {tip} 默认情况下，`RouteServiceProvider` 已经为 `routes/web.php` 文件指定了 `web` 中间件组。
 
 <a name="middleware-parameters"></a>
 ## 中间件参数
